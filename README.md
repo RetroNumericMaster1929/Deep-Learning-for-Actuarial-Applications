@@ -1,0 +1,1 @@
+Exclusive repository for the study cases and simulations analysed through the <b> Deep Learning for Finance </b> course under the professorship of Dr. Julio César Galindo López during the summer of 2024
